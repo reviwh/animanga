@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">animanga</string>
+    <string name="title_anime">Anime</string>
+    <string name="title_manga">Manga</string>
+    <string name="title_about">About</string>
+    <string name="top_airing_anime">Top Airing Anime</string>
+    <string name="greatest_manga_of_all_time">Greatest Manga of All Time</string>
+    <string name="anime_404">Anime not found.</string>
+    <string name="manga_404">Manga not found.</string>
+    <string name="spring">Spring %1$d</string>
+    <string name="summer">Summer %1$d</string>
+    <string name="fall">Fall %1$d</string>
+    <string name="winter">Winter %1$d</string>
+    <string name="author">Revi Wardana Putra</string>
+    <string name="author_email">reviwh2@gmail.com</string>
+    <string name="title_anime_details">Anime Details</string>
+    <string name="desc_back">Back</string>
+    <string name="title_manga_details">Manga Details</string>
+</resources>
